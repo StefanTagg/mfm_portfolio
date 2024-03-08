@@ -15,8 +15,8 @@ const HeaderSocials = () => {
         <i class="fa-brands fa-behance"></i>
         </a>
 
-        <a href="https://www.dribble.com/" className="home__social-link" target="_blank">
-        <i class="fa-brands fa-dribble"></i>
+        <a href="https://www.figma.com/" className="home__social-link" target="_blank">
+        <i class="fa-brands fa-figma"></i>
         </a>
 
         <a href="https://www.pinterest.com/" className="home__social-link" target="_blank">
